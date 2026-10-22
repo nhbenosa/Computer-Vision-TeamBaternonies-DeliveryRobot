@@ -7,7 +7,7 @@ The Midterm covers the **SEE → RECOGNIZE** stage: a camera-based system that r
 ## Team
 
 - Aguilar, Vince Clifford C.
-- Benosa, Nhel Adam
+- Benosa, Nhel Adam S.
 - Caldo, John Paul B.
 - Llesis, Roinel James A.
 - Olivares, Elyssa
